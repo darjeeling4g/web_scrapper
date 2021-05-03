@@ -1,0 +1,5 @@
+days = ["Mon", "Thu", "Wed", "Thur", "Fri"] # list(mutable sequence)
+print(days)
+days.append("Sat")
+days.reverse()
+print(days)
